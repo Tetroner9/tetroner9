@@ -66,4 +66,4 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 #Snake Animation
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tetroner9/tetroner9/blob/output/github-contribution-grid-snake.svg)
